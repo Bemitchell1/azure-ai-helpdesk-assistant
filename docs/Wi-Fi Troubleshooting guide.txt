@@ -1,0 +1,24 @@
+# Wi-Fi Troubleshooting
+
+1. Verify Wi-Fi is enabled on your device.
+
+2. Restart:
+
+   * Computer
+   * Router/modem
+
+3. Disconnect and reconnect to the Wi-Fi network.
+
+4. Confirm correct Wi-Fi password is being used.
+
+5. Move closer to the router if signal is weak.
+
+6. Run Windows Network Troubleshooter:
+
+   * Settings → Network & Internet → Troubleshoot
+
+7. If issue continues:
+
+   * Forget the network
+   * Reconnect manually
+   * Contact IT support.

@@ -1,0 +1,29 @@
+# VPN Setup Guide
+
+1. Open:
+
+   * Company VPN application
+
+2. Enter:
+
+   * Company email
+   * Network password
+
+3. Select:
+
+   * Connect
+
+4. Complete multi-factor authentication (MFA) if prompted.
+
+5. Wait for:
+
+   * "Connected Successfully" message
+
+6. Verify internet access by opening a web browser.
+
+7. If connection fails:
+
+   * Restart computer
+   * Check internet connection
+   * Retry login
+   * Contact IT support if issue continues.

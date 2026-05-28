@@ -1,0 +1,31 @@
+# Outlook Troubleshooting Guide
+
+1. Close and reopen Microsoft Outlook.
+
+2. Verify internet connection is active.
+
+3. Check if Outlook is in Offline Mode:
+
+   * Outlook → Send/Receive → Work Offline
+
+4. Restart the computer.
+
+5. Verify mailbox storage is not full.
+
+6. Update Outlook:
+
+   * File → Office Account → Update Options
+
+7. Remove and re-add the email profile if issues continue.
+
+8. Common issues supported:
+
+   * Emails not sending
+   * Outlook freezing
+   * Missing folders
+   * Login prompts
+   * Calendar sync issues
+
+9. If problem persists:
+
+   * Contact the IT Help Desk.

@@ -1,0 +1,33 @@
+# Printer Troubleshooting Guide
+
+1. Verify printer is powered on.
+
+2. Confirm printer is connected to:
+
+   * Wi-Fi
+   * Ethernet
+   * USB cable
+
+3. Check for printer error messages.
+
+4. Ensure paper is loaded correctly.
+
+5. Verify toner or ink levels are sufficient.
+
+6. Restart:
+
+   * Printer
+   * Computer
+
+7. Remove stuck print jobs:
+
+   * Settings → Printers & Scanners → Open Queue
+
+8. Reconnect printer if not detected by the computer.
+
+9. Print a test page.
+
+10. If issue continues:
+
+* Reinstall printer drivers
+* Contact IT Help Desk.

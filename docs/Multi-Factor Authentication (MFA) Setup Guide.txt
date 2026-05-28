@@ -1,0 +1,39 @@
+# Multi-Factor Authentication (MFA) Setup Guide
+
+1. Open:
+
+   * Company MFA portal or authentication application.
+
+2. Sign in using:
+
+   * Company email
+   * Network password
+
+3. Select:
+
+   * Set up Multi-Factor Authentication
+
+4. Choose authentication method:
+
+   * Mobile Authenticator App
+   * Text Message
+   * Phone Call
+
+5. If using the authenticator app:
+
+   * Download Microsoft Authenticator
+   * Scan the QR code provided
+
+6. Enter the verification code from the app.
+
+7. Wait for confirmation message:
+
+   * "MFA Successfully Enabled"
+
+8. Test login to verify MFA is working correctly.
+
+9. If setup fails:
+
+   * Restart device
+   * Verify internet connection
+   * Contact IT Help Desk.
